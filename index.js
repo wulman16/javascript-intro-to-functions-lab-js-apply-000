@@ -24,6 +24,6 @@ function sayHiToGrandma(string) {
   } else if (string === shout(string)) {
     return 'YES INDEED!';
   } else {
-    return 'ERROR: call function with a string!'
+    return 'ERROR: sayHitoGrandma must be called with a string!'
   }
 }
